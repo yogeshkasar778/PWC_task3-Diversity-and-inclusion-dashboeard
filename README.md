@@ -91,6 +91,8 @@ Measures used in  all visualization are:
 
 Data visualization for the data analysis (DAX) was done in Microsoft Power BI Desktop:
 
+Dashboard: [View Dashboard](https://www.novypro.com/project/yogeshkasar97-2)
+
 Shows visualizations from Diversity and Inclusion:
 
 | Diversity and inclusion HR Dashboard 1 |
